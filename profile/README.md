@@ -31,17 +31,6 @@ Somos Renan e Joab Lustosa, desenvolvedores com mais de 20 anos somados construi
 2. Propomos a solução mais simples que resolve o problema.
 3. Entregamos em etapas curtas, com resultado medido.
 
-## Código aberto
-
-Ferramentas que usamos no dia a dia e abrimos para a comunidade (licença MIT):
-
-| Projeto | O que faz |
-|---|---|
-| [octo-cluster](https://github.com/renanflustosa/octo-cluster) | Plugin do Claude Code: commits lógicos e seguros, prompts prontos para rodar e contexto enxuto |
-| [assistente-financeiro](https://github.com/renanflustosa/assistente-financeiro) | CLI de controle financeiro PF + PJ: importa extratos OFX/CSV e classifica os lançamentos |
-| [assistente-fiis](https://github.com/renanflustosa/assistente-fiis) | CLI que sugere o aporte mensal em fundos imobiliários |
-| [template-e2e](https://github.com/renanflustosa/template-e2e) | Modelo de testes de aceite com Playwright: um teste por critério, vídeo como evidência e CI |
-
 ## Stack
 
 `TypeScript` · `Node.js` · `Next.js` · `React` · `Angular` · `Go` · `C# / .NET` · `MySQL` · `PostgreSQL` · `Playwright` · `Claude Code`
