@@ -31,9 +31,9 @@ Somos Renan e Joab Lustosa, desenvolvedores com mais de 20 anos somados construi
 2. Propomos a solução mais simples que resolve o problema.
 3. Entregamos em etapas curtas, com resultado medido.
 
-## Stack
+## Tecnologia
 
-`TypeScript` · `Node.js` · `Next.js` · `React` · `Angular` · `Go` · `C# / .NET` · `MySQL` · `PostgreSQL` · `Playwright` · `Claude Code`
+**Tecnologia escolhida pelo problema, não o contrário.** Trabalhamos com a stack que você já tem ou com a que resolve melhor: web, APIs, automação, IA e integração com qualquer sistema.
 
 ## Fale com a gente
 
