@@ -16,7 +16,7 @@ Somos Renan e Joab Lustosa, desenvolvedores com mais de 20 anos somados construi
 
 ## O que fazemos
 
-| | |
+| Serviço | O que entrega |
 |---|---|
 | **Automação de processos** | Menos planilha manual, retrabalho e erro humano |
 | **Inteligência Artificial aplicada** | Agentes de IA, atendimento no WhatsApp, leitura de documentos e relatórios automáticos |
